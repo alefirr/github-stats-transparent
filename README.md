@@ -2,8 +2,8 @@
 
 This repo is used to create visualized statistics for my GitHub profile:
 
-![](https://raw.githubusercontent.com/alefirr/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/alefirr/github-stats-transparent/output/generated/languages.svg)
+![Overview](https://raw.githubusercontent.com/alefirr/github-stats-transparent/output/generated/overview.svg)
+![Languages usage](https://raw.githubusercontent.com/alefirr/github-stats-transparent/output/generated/languages.svg)
 
 </a>
 
